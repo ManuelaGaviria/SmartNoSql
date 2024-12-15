@@ -1,0 +1,39 @@
+Usuarios
+├── userId1
+│   ├── nombre: "Juan"
+│   ├── apellido: "Pérez"
+│   ├── correo: "juan@example.com"
+│   ├── contraseña: "hashedPassword"
+│   ├── tipoDocumento: "DNI"
+│   ├── documento: "12345678"
+│   ├── genero: "Masculino"
+│   ├── nacimiento: "1990-01-01"
+│   ├── estado: "Activo"
+│   ├── rol: "Estudiante"
+│   ├── clases
+│   │   ├── clasesProgramadas
+│   │   │   ├── A1
+│   │   │   │   ├── Clase1
+│   │   │   │   │   ├── estado: "Completada"
+│   │   │   │   │   ├── fecha: "2024-12-01"
+│   │   │   │   │   ├── horaInicio: "10:00"
+│   │   │   │   │   └── horaFinal: "11:00"
+│   ├── examenRealizado
+│   │   ├── idExamen1
+│   │   │   ├── examenId: "E1"
+│   │   │   ├── nivel: "A1"
+│   │   │   └── preguntaRespuesta
+│   │   │       ├── enunciado: "Pregunta 1"
+│   │   │       ├── idPregunta: "P1"
+│   │   │       ├── respuestaCorrecta: "C"
+│   │   │       └── respuestaDada: "A"
+│   ├── nivelActual
+│   │   ├── nivel
+│   │   │   └── nivel: "A1"
+│   └── niveles
+│       ├── nivelesMatriculados
+│       │   ├── A1: "true"
+│       │   ├── A2: "true"
+│       │   ├── B1: "false"
+│       │   ├── B2: "false"
+│       │   └── C1: "false"

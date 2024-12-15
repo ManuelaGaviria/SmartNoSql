@@ -1,0 +1,16 @@
+Cupos
+├── 2024-07-25
+│   ├── 18:00
+│   │   ├── A1
+│   │   │   ├── 101
+│   │   │   │   ├── estudiantes
+│   │   │   │   │   ├── estudianteId1: "id1"
+│   │   │   │   │   ├── estudianteId2: "id2"
+│   │   │   │   │   └── estudianteId6: "id3"
+│   ├── 19:00
+│   │   ├── A2
+│   │   │   ├── 102
+│   │   │   │   ├── estudiantes
+│   │   │   │   │   ├── estudianteId1: "id1"
+│   │   │   │   │   ├── estudianteId2: "id2"
+│   │   │   │   │   └── estudianteId6: "id3"

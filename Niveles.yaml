@@ -1,0 +1,47 @@
+Niveles
+├── A1
+│   ├── Clases
+│   │   ├── Clase1
+│   │   │   ├── codigo: "C1"
+│   │   │   ├── descripcion: "Introducción"
+│   │   │   └── numero: 1
+│   ├── Examenes
+│   │   ├── Units1&2
+│   │   │   ├── clase: "A1-1"
+│   │   │   ├── examen: "Examen Parcial"
+│   │   │   ├── tematica: "Unidades 1 y 2"
+│   │   │   ├── unidades: 2
+│   │   │   ├── ExamenEscrito
+│   │   │   │   ├── idExamenEscrito1
+│   │   │   │   │   ├── pregunta: "¿Qué es HTML?"
+│   │   │   │   │   ├── respuesta1: "Lenguaje de programación"
+│   │   │   │   │   ├── respuesta2: "Lenguaje de marcado"
+│   │   │   │   │   ├── respuesta3: "Base de datos"
+│   │   │   │   │   ├── respuesta4: "Navegador"
+│   │   │   │   │   └── respuestaCorrecta: "Lenguaje de marcado"
+│   │   │   ├── ExamenOral
+│   │   │   │   ├── idExamenOral1
+│   │   │   │   │   └── archivoURL: "https://example.com/audio1.mp3"
+│   ├── A2
+│   │   ├── Clases
+│   │   │   ├── Clase1
+│   │   │   │   ├── codigo: "C1"
+│   │   │   │   ├── descripcion: "Introducción"
+│   │   │   │   └── numero: 1
+│   │   ├── Examenes
+│   │   │   ├── Units1&2
+│   │   │   │   ├── clase: "A1-1"
+│   │   │   │   ├── examen: "Examen Parcial"
+│   │   │   │   ├── tematica: "Unidades 1 y 2"
+│   │   │   │   ├── unidades: 2
+│   │   │   │   ├── ExamenEscrito
+│   │   │   │   │   ├── idExamenEscrito1
+│   │   │   │   │   │   ├── pregunta: "¿Qué es HTML?"
+│   │   │   │   │   │   ├── respuesta1: "Lenguaje de programación"
+│   │   │   │   │   │   ├── respuesta2: "Lenguaje de marcado"
+│   │   │   │   │   │   ├── respuesta3: "Base de datos"
+│   │   │   │   │   │   ├── respuesta4: "Navegador"
+│   │   │   │   │   │   └── respuestaCorrecta: "Lenguaje de marcado"
+│   │   │   │   ├── ExamenOral
+│   │   │   │   │   ├── idExamenOral1
+│   │   │   │   │   │   └── archivoURL: "https://example.com/audio1.mp3"

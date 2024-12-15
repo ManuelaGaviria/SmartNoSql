@@ -1,0 +1,7 @@
+Horas
+├── Hora1
+│   ├── horaInicial: "08:00"
+│   └── horaFinal: "09:00"
+├── Hora2
+│   ├── horaInicial: "09:00"
+│   └── horaFinal: "10:00"
